@@ -1,0 +1,21 @@
+Intern_ID,Department,Rating,Feedback_Text,Sentiment
+1,AI,4.8,The mentors were very supportive and I learned a lot.,Positive
+2,HR,2.1,Communication was poor and tasks were unclear.,Negative
+3,Web Development,4.5,Great teamwork and practical experience.,Positive
+4,Marketing,1.9,The workload was stressful and guidance was insufficient.,Negative
+5,AI,4.2,I enjoyed working on real-world projects.,Positive
+6,Finance,2.3,Management support was weak during the internship.,Negative
+7,Cybersecurity,4.7,Excellent learning environment and friendly mentors.,Positive
+8,HR,2.0,I did not receive proper feedback from supervisors.,Negative
+9,Data Science,4.6,The internship improved my technical skills significantly.,Positive
+10,Marketing,1.8,Tasks were repetitive and not engaging.,Negative
+11,AI,4.9,Amazing experience with helpful senior developers.,Positive
+12,Finance,2.4,There was a lack of communication in the team.,Negative
+13,Web Development,4.4,I gained confidence by working on live projects.,Positive
+14,Cybersecurity,2.2,The training sessions were not properly organized.,Negative
+15,Data Science,4.3,Supportive mentors helped me improve quickly.,Positive
+16,HR,1.7,The environment was stressful and deadlines were unrealistic.,Negative
+17,AI,4.6,I learned modern AI tools and techniques.,Positive
+18,Marketing,2.1,Instructions were confusing and resources were limited.,Negative
+19,Web Development,4.7,Very productive internship with excellent collaboration.,Positive
+20,Finance,1.9,The internship lacked proper structure and planning.,Negative
