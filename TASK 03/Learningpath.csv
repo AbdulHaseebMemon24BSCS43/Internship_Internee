@@ -1,0 +1,21 @@
+Intern_ID,Course_ID,Course_Name,Category,Difficulty,Hours_Spent,Rating,Completion_Status
+INT001,C001,Python Basics,Programming,Beginner,12,5,Completed
+INT001,C002,Machine Learning Intro,AI,Intermediate,20,4,Completed
+INT001,C003,SQL Fundamentals,Database,Beginner,10,5,Completed
+INT002,C001,Python Basics,Programming,Beginner,14,4,Completed
+INT002,C004,Deep Learning Basics,AI,Intermediate,18,5,Completed
+INT002,C005,Data Visualization,Data Science,Beginner,11,4,Completed
+INT003,C002,Machine Learning Intro,AI,Intermediate,22,5,Completed
+INT003,C003,SQL Fundamentals,Database,Beginner,9,4,Completed
+INT003,C006,TensorFlow Essentials,AI,Advanced,25,5,Completed
+INT004,C001,Python Basics,Programming,Beginner,15,5,Completed
+INT004,C005,Data Visualization,Data Science,Beginner,10,4,Completed
+INT004,C007,Web Development,Web,Beginner,16,3,Completed
+INT005,C002,Machine Learning Intro,AI,Intermediate,19,5,Completed
+INT005,C004,Deep Learning Basics,AI,Intermediate,21,4,Completed
+INT005,C006,TensorFlow Essentials,AI,Advanced,28,5,Completed
+INT006,C003,SQL Fundamentals,Database,Beginner,8,3,Completed
+INT006,C005,Data Visualization,Data Science,Beginner,12,4,Completed
+INT006,C007,Web Development,Web,Beginner,18,5,Completed
+INT007,C001,Python Basics,Programming,Beginner,11,4,Completed
+INT007,C006,TensorFlow Essentials,AI,Advanced,26,5,Completed
